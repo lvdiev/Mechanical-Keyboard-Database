@@ -29,6 +29,9 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | E-Dra        | EK361W    | ?          | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/abdebfbedcb2906eccb7061d52101643) |
   | FlashQuark   | Horizon Z | HFD2201KBA | SN32F248B   | WIP  |                              | RGB       | No      | Bluetooth 5.0 |                                                                                        |
   | IQUNIX       | F60       | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/96918d46c4a13ee1673cef0b9c3654fa) |
+  | Kemove       | K61 Shadow | HFD2201KBA | SN32F248B   | WIP  | [Here](https://github.com/Stanley00/qmk_firmware_sonix/tree/sn32_develop/keyboards/kemove/dk61) | RGB       | All      | Bluetooth 5.0 |          |
+  | Motospeed    | CK62      | HFD2201KBA | SN32F248B   | No   |                              | RGB       | No      | Bluetooth 5.0 |                                                                                        |
+  | NOS          | C-450     | HFD2201KBA | SN32F248B  | No    |                              | RGB       | No      | No            |                                        
   | Redragon     | K530      | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/8be3e599dc4f67b6c0f00cc80a60cd65) |
   | Redragon     | K630      | VS11K09A-1 | SN32F248B   | No   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/2ca9bf368b2f987c0c0be06c28ff071c) |
   | Royal Kludge | RK61      | ?          | SN32F268    | WIP  | [Here](https://git.io/JO3cI) | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/a9f5d67eeace4c41a4a615754a3916f1) |
@@ -68,6 +71,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko         | 3068      | ?      | SN32F268    | No   |                              | White     | No      | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/63badde2007beb3e091436cc714cb58d) |
   | Akko         | 3068 v2   | ?      | SN32F248B   | No   |                              | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/c9060a33124daf5f2ddfc549bcdd6093) |
   | KeyDous      | NJ68      | M103CB | NUC123      | No   |                              | RGB       | All     | Bluetooth 5.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/217036f674eb6cb34f9d9a87f2274fb4) |
+  | Perixx   | PERIBOARD-428 | VS11K09A-1 | SN32F248B | No |                              | RGB       | No      | No            |                                                                                        |
   | Royal Kludge | RK68(855) | ?      | SN32F268    | WIP  | [Here](https://git.io/JO3cO) | White     | All     | Bluetooth 5.1 | [Here](http://www.keyboard-layout-editor.com/#/gists/0721c17468666207f84fcab230130ec9) |
   |              |           |        |             |      |                              |           |         |               |                                                                                        |
 </details>
@@ -83,6 +87,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Ajazz | AK33 (BJ33) | VS11K09A   | SN32F248    | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Ajazz | AK33 (SG33) | VS11K09A-1 | SN32F248B   | WIP  | [Here](https://git.io/JO3Wy) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Ajazz | AK33        | ?          | SN32F268    | No   |                              | White     | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Ajazz | AK33        | VS11K18A-1 | SN8P2267CF  | No   |                              | White     | No      | No       |                                                                                        |
   |       |             |            |             |      |                              |           |         |          |                                                                                        |
 
   ## 84 Keys
@@ -92,8 +97,8 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko          | 3084    | VS11K17A   | SN32F268    | No   |      | No        | No      | Bluetooth 3.0           | [Here](http://www.keyboard-layout-editor.com/#/gists/399700dca7f39a347f8f89d752b46bda) |
   | Akko          | 3084    | VS11K17A   | SN32F268    | WIP  |      | White     | No      | Bluetooth 5.0           | [Here](http://www.keyboard-layout-editor.com/#/gists/f92a481c5b2a026e23ae2217ac37c32e) |
   | Akko          | 3084 v2 | ?          | SN32F268    | No   |      | No        | All     | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/0483653eb4a87fd92bb5c94cb4074aee) |
-  | Keychron/京造 | K2      | VS11K17A   | SN32F268    | No   |      | White     | No      | Bluetooth 5.1           | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
-  | Keychron      | K2      | VS11K09A-1 | SN32F248B   | No   |      | RGB       | No      | Bluetooth 5.1           | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Keychron/京造 | K2      | VS11K17A   | SN32F268    | No   |      | White     | All     | Bluetooth 5.1           | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
+  | Keychron      | K2      | VS11K09A-1 | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1           | [Here](http://www.keyboard-layout-editor.com/#/gists/24d293cad6cedaf6be937016c4f02311) |
   | Royal Kludge  | RK84    | ?          | SN32F248B   | No   |      | RGB       | All     | Bluetooth 5.1 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/be675867e0d684b31418a4179be5f231) |
   |               |         |            |             |      |      |           |         |                         |                                                                                        |
 </details>
@@ -112,6 +117,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko                    | 3087              | ?             | SN32F268    | No                                   |                              | No        | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/d49ecd7a294736ea585fc5cca242eecd) |
   | Akko                    | 3087 v2           | ?             | SN32F268    | No                                   |                              | No        | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/9c4a1e0d3bb7fadc54094c535957b660) |
   | Akko                    | 3087S             | ?             | SN32F248B   | No                                   |                              | No        | No      | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/5e68841bbc7bafc7342131127bb0cba2) |
+  | Arbiter                 | X-52              | VS11K15A-1    | SN32F268    | No                                   |                              | RGB       | No      | No            | No                                                                                     |
   | E-Dra                   | EK387             | VS11K09A-1    | SN32F248B   | No                                   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/d879c29f46369b00d314f9c677a06876) |
   | GANSS                   | GS87D             | HFD48KP500    | SN32F268    | No                                   |                              | White     | No      | Bluetooth 3.0 | [Here](http://www.keyboard-layout-editor.com/#/gists/edea1f92ede1cb04a99b1e7cd4631797) |
   | Glorious PC Gaming Race | GMMK TKL 2020     | VS11K13A      | SN32F268    | No                                   |                              | RGB       | All     | No            | [Here](http://www.keyboard-layout-editor.com/#/gists/4bd6c41cc5330b1e875fff528ac4a627) |
@@ -147,6 +153,7 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
   | Akko           | 3098    | ?           | SN32F268    | No   |      | No        | No      | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/1980ac11b7d5217c90c5157f07a7c022) |
   | Akko           | 3098 v2 | ?           | ?           | No   |      | No        | All     | No                      | [Here](http://www.keyboard-layout-editor.com/#/gists/72b4d4da3389a1ddd66b6689e6787eba) |
   | Flesports/腹灵 | FL980   | NUC121SC2AE | No          | No   |      | RGB       | All     | Bluetooth 5.0 & 2.4 GHz | [Here](http://www.keyboard-layout-editor.com/#/gists/8d3fc231a29b0fc8240d4c4553998f25) |
+  | JingZao/京造   | WKB603  | HFD501KJD   | ?           | No   |      | White/RGB | All     | Bluetooth 5.1 & 2.4 GHz |                                                                                        |
   |                |         |             |             |      |      |           |         |                         |                                                                                        |
 
   ## 100 Keys
@@ -194,11 +201,12 @@ Read them here: [Click on this](https://github.com/SonixQMK/Mechanical-Keyboard-
 
   ## 105 Keys
 
-  | Brand   | Model  | MCU      | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE                                                                                    |
-  | ------- | ------ | -------- | ----------- | ---- | ---------------------------- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
-  | aLLreLi | K643   | VS11K09A | SN32F248    | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/3377a0a5d2f48423e88bc487910509b5) |
-  | Trust   | GXT890 | VS11K09A | SN32F248    | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/8d8108d04d3b762015befa766fba6cd3) |
-  |         |        |          |             |      |                              |           |         |          |                                                                                        |
+  | Brand   | Model        | MCU        | Rebrand MCU | QMK  | Link                         | Backlight | Hotswap | Wireless | KLE                                                                                    |
+  | ------- | ------------ | ---------- | ----------- | ---- | ---------------------------- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
+  | aLLreLi | K643         | VS11K09A   | SN32F248    | WIP  | [Here](https://git.io/JOST1) | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/3377a0a5d2f48423e88bc487910509b5) |
+  | Montech | MKey (MK105) | VS11K09A-1 | SN32F248B   | WIP  |                              | RGB       | All     | No       |                                                                                        |
+  | Trust   | GXT890       | VS11K09A   | SN32F248    | No   |                              | RGB       | No      | No       | [Here](http://www.keyboard-layout-editor.com/#/gists/8d8108d04d3b762015befa766fba6cd3) |
+  |         |              |            |             |      |                              |           |         |          |                                                                                        |
 
   ## 108 Keys
 
